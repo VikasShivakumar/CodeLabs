@@ -1,0 +1,24 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2021-08-01T17:39:36+05:30",
+  "id": "how-to-write-a-clean-code-with-c#",
+  "duration": 12,
+  "title": "How to Write a Clean Code",
+  "authors": "Zarin",
+  "summary": "Clean Code with C#",
+  "source": ".\\Clean Code with c#.md",
+  "theme": "",
+  "status": [
+    "published"
+  ],
+  "category": [
+    "sample"
+  ],
+  "tags": [
+    "medium"
+  ],
+  "url": "how-to-write-a-clean-code-with-c#"
+}
